@@ -1,8 +1,8 @@
 # Data Scientist
 
 ### Education ###
-- Masters in Data Science | Itvedant Education Pvt.Ltd (Present)
-- Msc , Geoinformatics | Symbiosis Institute of Geoinformatics (2021)
+- Masters in Data Science|Itvedant Education Pvt.Ltd(Present)
+- Msc,Geoinformatics|Symbiosis Institute of Geoinformatics(2021)
 
 
 ### Work experience ###
@@ -38,7 +38,7 @@
 -Data analyzed and visualized using business intelligence tool - Power BI.
 
 ## Sales Dashboard ##
-- Created a dashboard for better visualization and understanding sales with the help of Excel
+-Created a dashboard for better visualization and understanding sales with the help of Excel
   
 ### Technical Skills ###
 -Programming: Python (Numpy, Pandas, matplotlib.pyplot, seaborn, scikit learn, Tensorflow),JavaScript, SQL.
