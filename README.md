@@ -6,12 +6,14 @@
 
 
 ### Work experience ###
-**Data science intern @ iNeuron** 
+**Data science intern @ iNeuron**  
+
 -Implementing Regression models to analyse the data.
 
 -Artificial neural network used while performing linear regression.
 
 **Data Science & Business Analytics intern @ sparks foundation**
+
 -Creating power BI dashboards.
 
 -Using Power BI tools to analyze and visualize data.
@@ -21,6 +23,7 @@
 -Improving the accuracy by applying algorithms.
 
 **Associate Consultant @ Amnex Infotechnologies Pvt Ltd**
+
 -Collected, consolidated, and organized data from diverse sources, ensuring accuracy and completeness. 
 
 -Cleaning the obtained data and processing.
@@ -40,16 +43,17 @@
 -Implemented data validation processes to ensure data integrity and reliability
 
 ### Projects ###
-## Air Quality Index ##
+
+**Air Quality Index**
 -Developing a model for prediction of Air Quality Index using regression algorithms.
 
-## Shipment Price Prediction ##
+**Shipment Price Prediction**
 -Building a predictive model Shipment price prediction analysis.
 
-## Global Data Visualization ##
+**Global Data Visualization**
 -Data analyzed and visualized using business intelligence tool - Power BI.
 
-## Sales Dashboard ##
+**Sales Dashboard**
 -Created a dashboard for better visualization and understanding sales with the help of Excel.
   
 ### Technical Skills ###
