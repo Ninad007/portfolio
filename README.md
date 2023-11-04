@@ -38,9 +38,11 @@
 -Data analyzed and visualized using business intelligence tool - Power BI.
 
 ## Sales Dashboard ##
--Created a dashboard for better visualization and understanding sales with the help of Excel
+-Created a dashboard for better visualization and understanding sales with the help of Excel.
   
 ### Technical Skills ###
 -Programming: Python (Numpy, Pandas, matplotlib.pyplot, seaborn, scikit learn, Tensorflow),JavaScript, SQL.
+
 -Tools/Platforms: Git,Visual Studio Code, Jupyter Notebook, Google Colab, PostgreSQL, MySQL.
+
 -Soft Skills: (Attention to detail ,Excellent communication and Critical thinking)
