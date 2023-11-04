@@ -3,7 +3,7 @@
 ### Education ###
 Msc Geoinformatics
 
-### work experience ###
+### Work experience ###
 Data science intern at iNeuron
 Data Science & Business Analytics intern at sparks foundation
 
