@@ -1,13 +1,13 @@
 # Data Scientist
 
-# Education #
+### Education ###
 Msc Geoinformatics
 
-# work experience
+### work experience ###
 Data science intern at iNeuron
 Data Science & Business Analytics intern at sparks foundation
 
-# Projects
+### Projects ###
 Power bi projects
 excel projects
 
