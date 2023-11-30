@@ -8,19 +8,10 @@
 ### Work experience ###
 **Data science intern @ iNeuron**  
 
-- Implementing Regression models to analyse the data.
+- Implementing Linerar Regression model to analyse the data.
 
-- Artificial neural network used while performing linear regression.
-
-**Data Science & Business Analytics intern @ Sparks Foundation**
-
-- Creating power BI dashboards.
-
-- Using Power BI tools to analyze and visualize data.
-
-- Creating model using supervised and unsupervised learning techniques to analyse the data. 
-
-- Improving the accuracy by applying algorithms.
+- Artificial neural network used for development of the model.
+  
 
 **Associate Consultant @ Amnex Infotechnologies Pvt Ltd**
 
@@ -43,15 +34,21 @@
 - Implemented data validation processes to ensure data integrity and reliability
 
 ### Projects ###
+**Bank Marketing Campaign Subscriptions**
 
-**Air Quality Index**
+- Using machine learning algorithms, analyzing historical data on customers interactions, demographics and
+  responses to past conducted campaigns.
+  
+**Insurance Claim Prediction**
 
-- Developing a model for prediction of Air Quality Index using regression algorithms.
+- The project is designed to analyse probability of smokers insurance claims through the application of machine learning
+  algorithms.
 
-**Shipment Price Prediction**
+**Mall Customers Segmentation Data**
 
-- Building a predictive model Shipment price prediction analysis.
-
+-The data involves the categorization of mall visitors into distinct groups based on various customer segments.
+  
+  
 **Global Data Visualization**
 
 - Data analyzed and visualized using business intelligence tool - Power BI.
@@ -61,7 +58,7 @@
 - Created a dashboard for better visualization and understanding sales with the help of Excel.
   
 ### Technical Skills ###
-- Programming: Python (Numpy, Pandas, matplotlib.pyplot, seaborn, scikit learn, Tensorflow),JavaScript, SQL.
+- Programming: Python (Numpy, Pandas, matplotlib.pyplot, seaborn, scikit learn, Tensorflow, NLTK),JavaScript, SQL.
 
 - Tools/Platforms: Git,Visual Studio Code, Jupyter Notebook, Google Colab, PostgreSQL, MySQL.
 
