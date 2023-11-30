@@ -1,8 +1,8 @@
-# Data Scientist
+# Geospatial Data Science Enthusiast
 
 ### Education ###
 - Masters in Data Science|Itvedant Education Pvt.Ltd(Present)
-- Msc,Geoinformatics|Symbiosis Institute of Geoinformatics(2021)
+- Msc,Geoinformatics|Symbiosis Institute of Geoinformatics
 
 
 ### Work experience ###
@@ -46,7 +46,7 @@
 
 **Mall Customers Segmentation Data**
 
--The data involves the categorization of mall visitors into distinct groups based on various customer segments.
+- The data involves the categorization of mall visitors into distinct groups based on various customer segments.
   
   
 **Global Data Visualization**
