@@ -34,25 +34,31 @@
 - Implemented data validation processes to ensure data integrity and reliability
 
 ### Projects ###
-**Bank Marketing Campaign Subscriptions**
 
-- Using machine learning algorithms, analyzing historical data on customers interactions, demographics and
-  responses to past conducted campaigns.
-  
 **Estimation of Soil Moisture using Remote Sensing Technique in Agriculture**
+
 -The project was done to estimate the surface soil moisture using remote sensing techniques.
+
 -The project involves a specialized approach to capitalize optical data for accurate moisture assessment.
+
 -The optical trapezoid model using SWIR spectral signatures of soil to estimate soil moisture content.
+
 -This approach aids in optimizing irrigation strategies, managing water resources efficiently, and making informed decisions for crop health and productivity
 
 **Resource Allocation and its Utilization in Public Transport Using Geo-Spatial Technique**
+
 -The project involves leveraging GIS systems and spatial analysis to optimize the deployment of transportation resources.
+
 -Geo-spatial techniques enabling planners and operators to analyze geographic data such as traffic patterns, population density, and transportation infrastructure to make informed decisions about resource allocation.
+
 -This includes optimizing bus routes, scheduling, and fleet management based on real-time spatial information.
 
 ### Case Study ###
+
 **Visualizing Major Cities on World Map with Python Libraries**
+
 **World Earthquake data Visualization from 1965-2016**
+
 **Plotting map with python Libraries**
   
 ### Technical Skills ###
