@@ -55,11 +55,11 @@
 
 ### Case Study ###
 
-**Visualizing Major Cities on World Map with Python Libraries**
+-Visualizing Major Cities on World Map with Python Libraries
 
-**World Earthquake data Visualization from 1965-2016**
+-World Earthquake data Visualization from 1965-2016
 
-**Plotting map with python Libraries**
+-Plotting map with python Libraries
   
 ### Technical Skills ###
 - Programming: Python (Numpy, Pandas, matplotlib.pyplot, seaborn, scikit learn, Tensorflow, NLTK),JavaScript, SQL.
